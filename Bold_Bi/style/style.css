@@ -1,0 +1,216 @@
+body{
+    font-family: 'Caros', sans-serif;    
+    font-size: 20px;
+    
+    color: darkslategray;
+}
+#first{
+    background: url(../image/Vector-1.png) rgb(243, 253, 253) no-repeat bottom ;
+    background-size: 100%;
+    padding: 6rem 2rem;
+    z-index: 1;
+
+}
+
+
+.first_size{
+    width: 25%;
+    margin: 1rem 8em;
+    float: left;
+    position: relative;
+    top: 3rem;
+
+}
+.first_image{
+    width: 15%;
+    position: relative;
+    bottom: auto;
+}
+.first_h2{
+color: rgb(39, 39, 39);
+
+}
+a{
+    color: rgb(255, 116, 2);
+    text-decoration: none;
+    display: inline;
+}
+#right_arrow{
+    float:inline-end;
+    position: relative;
+    
+}
+#form{
+    width: 30%;
+    padding: 1rem 2rem;
+    text-align: center;
+    margin: 0 6rem;
+    color: darkslategray;
+    position: relative;
+    float: right;
+    background-color: white;
+    font-size: 14px;
+    position: relative;
+    top: 3rem;
+}
+#clear{
+    clear: both;
+}
+#clear_left{
+    clear: left;
+}
+.box{
+    width: 100%;
+    height: 3rem;
+    border-style: solid;
+    border-color: rgb(247, 246, 246) ;
+}
+input:focus{
+    outline-color: rgb(255, 116, 2) ;
+    
+    border: rgb(255, 116, 2) ;
+    
+    
+}
+#box_message{
+    width: 100%;
+    border-style: solid;
+    border-color: rgb(247, 246, 246) ;
+}
+textarea:focus{
+    outline-color:  rgb(255, 116, 2);
+    border: rgb(255, 116, 2);
+}
+#submit{
+    border-radius: 3px;
+    background-color:rgb(255, 116, 2);
+    width:fit-content;
+    padding: 1rem 9rem;
+    height: 2rem;
+    font-size: 16px;
+    color: white;
+    
+}
+#submit:hover{
+    background-color:rgba(255, 116, 2, 0.11);
+    color: rgb(255, 116, 2);
+}
+.office{
+    width: 25%;
+    margin: 1rem 1rem;
+    position: relative;
+    left: 5%;
+    float: left;
+    border-color: rgb(247, 246, 246) ;
+    border-style: solid;
+}
+h1{
+    color:rgb(55, 61, 66);
+    text-align: center;
+}
+#outline{
+    padding: 3rem;
+    margin: 3rem;
+    
+}
+address{
+    font-style: normal;
+}
+.office_image{
+    width: 100%;
+}
+h4{
+    color:rgb(55, 61, 66);
+}
+h2{
+    color:rgb(55, 61, 66);
+    
+}
+#center{
+    text-align: center;
+}
+.icon{
+    color:rgb(55, 61, 66);
+    float: inline-end;
+    position: relative;
+    top: 10px;
+}
+
+
+li{
+    display: inline-block;
+    padding: 0 15;
+    position: relative;
+    top: -9px;
+}
+    
+
+#chat{
+    position: fixed;
+    left: 95%;
+    top: 90%;
+}
+#header{
+    position: fixed  ;
+    padding: 0rem 11rem;
+    background-color: rgb(243, 253, 253);
+    width: 100%;
+    z-index: 2;
+    border: 10 solid;
+}
+#bold_bi{
+    position: relative;
+    top: 30px;
+}
+#list_anchor{
+    color:rgb(55, 61, 66);
+}
+#list_anchor:hover{
+    color: rgb(255, 116, 2);
+}
+#float{
+    float: left;
+    padding-left: 16rem;
+    position: relative;
+    bottom: 15px;
+}
+#foot1{
+    width: 10rem;
+    margin-left: 6rem;
+    float: left;
+    
+    
+    
+}
+#foot2{
+    width: 40%;
+    
+    position: relative;
+    left: 20rem;
+    top: -2rem;
+    font-size: 14px;
+    float: left;
+}
+#float1{
+    
+    padding:1rem;
+    position: relative;
+    left: 1rem;
+    float: left;
+     
+}
+#list{
+    
+    text-align: left;
+    
+}
+.icon1{
+    width: 10%;
+}
+#outline1{
+    width:100%;
+    margin-left: 6rem;
+}
+blockquote{
+    font-size: 14px;
+}
